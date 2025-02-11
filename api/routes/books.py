@@ -1,7 +1,7 @@
 from typing import OrderedDict
 
 from fastapi import APIRouter, status
-from fastapi import HTTPException
+#from fastapi import HTTPException
 
 from fastapi.responses import JSONResponse
 

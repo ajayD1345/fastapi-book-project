@@ -34,7 +34,7 @@ jobs:
           tags: ajay112/fastapi-app:latest
           # Replace "your-dockerhub-username" with your actual Docker Hub username
 
-      # Deploy the new image to your server.
+      # Deploy the new image to your server..
       # In this example, we SSH into the server, pull the latest image, stop any existing container,
       # remove it, and then run the new container.
       - name: Deploy to Server
